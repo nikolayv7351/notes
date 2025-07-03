@@ -1,6 +1,6 @@
 1. Learn javascript +
 2. Learn html +
 3. Learn css +
-4. Learn frameworks
+4. Learn frameworks (react) +-
 5. Learn specific tools
 6. Learb git
