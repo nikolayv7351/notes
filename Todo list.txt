@@ -3,3 +3,4 @@
 3. Learn css
 4. Learn frameworks
 5. Learn specific tools
+6. Learb git
