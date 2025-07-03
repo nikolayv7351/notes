@@ -1,4 +1,4 @@
-1. Learn javascript
+1. Learn javascript +
 2. Learn html
 3. Learn css
 4. Learn frameworks
